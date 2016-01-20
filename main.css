@@ -1,0 +1,12 @@
+header{
+    background: #101010;
+}
+header h1{
+    color:yellow;
+    font-size: 64px;
+  padding-top: 30px;
+}
+header p{
+    color:gray;
+}
+
