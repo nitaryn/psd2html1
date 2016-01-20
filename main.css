@@ -1,12 +1,16 @@
 header{
+    margin-top: -40px;
+    height: 150px;
     background: #101010;
 }
 header h1{
     color:yellow;
     font-size: 64px;
-  padding-top: 30px;
+  padding-top: 60px;
 }
 header p{
     color:gray;
+    margin-top: -70px;
+    margin-left: 70%;
 }
 
