@@ -1,0 +1,93 @@
+header{
+    margin-top: -40px;
+    height: 150px;
+    background: #101010;
+}
+header h1{
+    color:yellow;
+    font-size: 64px;
+  padding-top: 60px;
+}
+header p{
+    color:gray;
+    margin-top: -70px;
+    margin-left: 70%;
+}
+.home img{
+    width: 100%;
+    height: 520px;
+}
+.home {
+    margin-top:20px;
+}
+body {
+    background-color: white;
+    height:1000px;
+}
+
+.blog h1,
+.blog p{
+     margin-left: 5%;
+}
+.blog {
+    height: 300px;
+    background-color: white;
+}
+.button {
+    margin-left: 5%;
+    height: 30px;
+    background-color: black;
+    color: white;
+    width:100px;
+    border-radius: 25px;
+}
+.logo {
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    background color: white;
+
+}
+.division{
+    background color: white;
+}
+.doc {
+    width: 45%;
+    display: inline-block;
+    text-align:center;
+}
+.source {
+    background color: white;
+}
+
+.develop{
+  text-align: center;
+    background: #00FF00;
+    padding: 3%;
+    
+}
+.copyright{
+    text-align: center;
+    color: yellow;
+    background: black;
+    height: 5%;
+    
+}
+jhbadshfbahdbfdahbfadshbjhcbsdj
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
